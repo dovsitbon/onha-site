@@ -1,0 +1,20 @@
+{
+  "_doc": "Coordonnées et réglages généraux. rating : note Google relevée à la main (mettre à jour value, count et checked).",
+  "name": "ONHA",
+  "fullName": "ONHA – Vietnam Street-Food",
+  "url": "https://onha-amiens.vercel.app",
+  "phone": "09 87 18 79 29",
+  "phoneIntl": "+33987187929",
+  "whatsapp": "",
+  "email": "onhaboutique@gmail.com",
+  "address": { "street": "11 rue Saint-Leu", "postalCode": "80000", "city": "Amiens", "district": "Saint-Leu", "region": "Hauts-de-France", "country": "FR" },
+  "geo": { "lat": 49.8963, "lng": 2.3007 },
+  "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ONHA+Vietnam+Street+Food+11+rue+Saint-Leu+80000+Amiens",
+  "mapsEmbed": "https://www.google.com/maps?q=ONHA+Vietnam+Street+Food,+11+rue+Saint-Leu,+80000+Amiens&z=16&output=embed",
+  "instagram": "https://www.instagram.com/onha_family/",
+  "instagramHandle": "@onha_family",
+  "facebook": "https://www.facebook.com/onhavietnamstreetfood/",
+  "rating": { "value": 4.8, "count": 191, "source": "Google", "checked": "2026-10-21" },
+  "order": { "minutesAhead": 20, "stepMinutes": 15, "daysAhead": 6, "maxPerLine": 15 },
+  "legal": { "company": "ONHA VIETNAM STREET-FOOD", "siret": "830 673 448 00023", "director": "", "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}

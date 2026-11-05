@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Vietnamese restaurant in Amiens Saint-Leu: bánh mì, bò bún | ONHA Vietnam Street-Food",
+    "description": "Homemade Vietnamese street food, cooked by a family at 11 rue Saint-Leu in Amiens: bánh mì, bò bún, bún thịt, bowls, desserts and vegan options. Eat in or take away, order online.",
+    "ogAlt": "Bánh mì with satay chicken, pickled carrots and fresh coriander at ONHA, Amiens"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close",
+    "home": "ONHA, home",
+    "carte": "Menu",
+    "today": "Today's special",
+    "order": "Takeaway",
+    "story": "Our story",
+    "infos": "Info",
+    "orderCta": "Order takeaway",
+    "orderShort": "Order",
+    "call": "Call",
+    "instagram": "ONHA on Instagram",
+    "facebook": "ONHA on Facebook",
+    "lang": "Language"
+  },
+  "intro": { "skip": "Skip" },
+  "announce": { "close": "Close the banner" },
+  "hero": {
+    "eyebrow": "Vietnamese street food · Saint-Leu, Amiens",
+    "title": "Home cooking, street-food style",
+    "sub": "Crunchy bánh mì, generous bò bún, fresh herbs and homemade pickles. Cooked by a family, to eat in or take away.",
+    "ctaMenu": "See the menu",
+    "ctaOrder": "Order takeaway",
+    "rating": "{value}/5 on Google",
+    "ratingCount": "{count} reviews",
+    "ratingNote": "Google rating checked on {date}"
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed right now",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "tiles": {
+    "title": "Where to start",
+    "items": {
+      "banh-mi": "Bánh mì",
+      "bun": "Bún",
+      "bowls": "Bowls",
+      "vege": "Veggie & vegan",
+      "desserts": "Desserts"
+    }
+  },
+  "today": {
+    "eyebrow": "Today's special",
+    "title": "Today at ONHA",
+    "dish": "The dish",
+    "dessert": "The dessert",
+    "formula": "Lunch deal",
+    "formulaPrice": "{price} for the deal",
+    "formulaDetail": "Your main, a drink for {drink} and the dessert of the day for {dessert}.",
+    "noEntry": "Dish of the day",
+    "follow": "See our stories",
+    "dateLabel": "{date}"
+  },
+  "carte": {
+    "eyebrow": "The menu",
+    "title": "A short menu, all homemade",
+    "intro": "Pick your base, then your filling and your sauce. That's it, on purpose.",
+    "tabsLabel": "Menu categories",
+    "tabs": {
+      "banh-mi": "Bánh mì",
+      "bun": "Bún",
+      "bowls": "Bowls & spring rolls",
+      "vege": "Veggie & vegan",
+      "desserts": "Desserts",
+      "boissons": "Drinks & cà phê"
+    },
+    "garnitureTitle": "Choose your filling",
+    "sauceTitle": "Choose your sauce",
+    "garnitures": {
+      "porc-laque": "Lacquered pork",
+      "poulet-sate": "Satay chicken",
+      "tofu-5-parfums": "Five-spice tofu (veggie)"
+    },
+    "sauces": {
+      "mayo-epicee": "Spicy mayo",
+      "cacahuete-soja-fume": "Peanut and smoked soy",
+      "soja-sale": "Salty soy"
+    },
+    "priceOnSite": "Price in the shop",
+    "rotation": "Depends on the day",
+    "add": "Order",
+    "addLabel": "Order: {name}",
+    "seeFull": "Full menu",
+    "vegeIntro": "Five-spice tofu replaces the meat in every bánh mì and every bún. Say “vegan” when you order and we'll adapt the sauce and toppings.",
+    "allergens": "Allergens: peanut, soy, gluten (bread, sauces), egg (cà phê trứng). Just ask and we'll go through each dish with you.",
+    "checked": "Prices checked on {date}"
+  },
+  "tags": {
+    "vegan": "Vegan",
+    "vegetarian": "Vegetarian",
+    "vegeOption": "Veggie option",
+    "spicy": "Spicy"
+  },
+  "variants": {
+    "m": "M · 200 ml",
+    "l": "L · 350 ml"
+  },
+  "products": {
+    "banh-mi": { "name": "Bánh mì", "desc": "The crunchy baguette sandwich: your filling, pickled vegetables, cucumber and fresh herbs." },
+    "bun-thit": { "name": "Bún thịt", "desc": "A fresh, generous bowl: rice vermicelli, your filling, pickled vegetables and fresh herbs." },
+    "bo-bun": { "name": "Bò bún", "desc": "The hearty bowl: rice vermicelli, a crispy spring roll, vegetables, fresh herbs and our own sauce." },
+    "bo-bun-vegan": { "name": "Vegan bò bún", "desc": "The plant-based version: five-spice tofu, vermicelli, crunchy vegetables and herbs." },
+    "tofu-bowl": { "name": "Tofu bowl, hot sauce", "desc": "Tofu, crunchy vegetables, fresh herbs and a sauce with just the right kick." },
+    "nems-legumes": { "name": "Vegetable spring rolls", "desc": "Crispy, with their dipping sauce." },
+    "dessert-du-jour": { "name": "Dessert of the day", "desc": "A different sweet every day, often with coconut milk. It's in our Instagram highlights." },
+    "che-tapioca": { "name": "Tapioca pearls", "desc": "Soft tapioca pearls in coconut milk." },
+    "che-chuoi": { "name": "Banana and tapioca", "desc": "Banana, tapioca pearls and coconut milk." },
+    "dessert-mangue": { "name": "Mango dessert", "desc": "Fresh and fruity, with mango." },
+    "boisson": { "name": "Drink of your choice", "desc": "A cold drink, picked at the counter." },
+    "ca-phe-den": { "name": "Vietnamese black coffee", "desc": "Brewed in a phin, the Vietnamese drip filter: strong and intense." },
+    "ca-phe-sua": { "name": "Coffee with condensed milk", "desc": "Phin coffee over sweet condensed milk: smooth and indulgent." },
+    "ca-phe-trung": { "name": "Egg coffee", "desc": "Black coffee topped with a sweet egg sabayon, Hanoi-style." },
+    "filtre-du-jour": { "name": "Batch brew of the day", "desc": "Gentle filter coffee with a light bitterness, easy to drink." },
+    "filtre-v60": { "name": "Pour-over (V60)", "desc": "Brewed by hand, with fruity notes. Allow a few minutes." }
+  },
+  "story": {
+    "eyebrow": "Our story",
+    "title": "Ở nhà, “at home”",
+    "p1": "ONHA comes from “ở nhà”, which means “at home” in Vietnamese. That's exactly what we cook: our family's dishes, street-food style.",
+    "p2": "Behind the counter on rue Saint-Leu, we're two brothers. The pickles, sauces and marinades are made here every day, and the menu stays short so everything is fresh.",
+    "p3": "Here, we take our time. Coffee drips slowly through its phin, the dish of the day changes every morning, and we're happy to tell you what's in your bowl.",
+    "facts": ["Homemade, by a family", "A new dish every morning", "Veggie and vegan options"],
+    "photoNote": "The two brothers"
+  },
+  "gallery": {
+    "eyebrow": "Instagram",
+    "title": "In our bowls this week",
+    "follow": "Follow @onha_family",
+    "close": "Close",
+    "prev": "Previous photo",
+    "next": "Next photo",
+    "counter": "{n} of {total}",
+    "open": "Enlarge photo"
+  },
+  "order": {
+    "eyebrow": "Takeaway",
+    "title": "You order, we cook, you pick up",
+    "intro": "Choose your dishes and a pick-up time. We'll call you if needed, and you pay at the counter by card or mobile payment.",
+    "callTitle": "Easier on the phone?",
+    "callText": "Call us during service and we'll take it down.",
+    "callCta": "Call to order",
+    "itemsTitle": "Your dishes",
+    "pickupTitle": "Pick-up",
+    "prefsTitle": "Your preferences",
+    "contactTitle": "Your details",
+    "dish": "Dish",
+    "quantity": "Quantity",
+    "garniture": "Filling",
+    "sauce": "Sauce",
+    "size": "Size",
+    "addLine": "Add a dish",
+    "removeLine": "Remove this dish",
+    "day": "Day",
+    "time": "Time",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "noSlots": "No time left that day: please pick another day.",
+    "prefs": {
+      "noCoriander": "No coriander",
+      "mild": "Not spicy",
+      "spicy": "Extra spicy",
+      "vegan": "Vegan version"
+    },
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email (optional)",
+    "emailHint": "To get a summary of your order.",
+    "message": "A note for the kitchen?",
+    "messagePh": "Allergy, no peanuts, cutlery…",
+    "total": "Estimated total",
+    "totalNote": "Some prices are confirmed at the counter.",
+    "submit": "Send my order",
+    "sending": "Sending…",
+    "payNote": "No online payment: you pay when you pick up, by card or mobile payment.",
+    "errors": {
+      "lines": "Please choose at least one dish.",
+      "day": "Please choose a day.",
+      "time": "Please choose a pick-up time.",
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "This email address doesn't look right.",
+      "send": "Sending didn't work. Give us a call and we'll take your order over the phone."
+    },
+    "done": {
+      "title": "Got it!",
+      "text": "Your order is in the kitchen. If we have a question, we'll call you.",
+      "pendingTitle": "One last step: a call",
+      "pendingText": "Your summary is ready. Call us to confirm the order and we'll get cooking right away.",
+      "mail": "A summary has been sent to {email}.",
+      "again": "New order"
+    },
+    "whatsapp": "Send on WhatsApp",
+    "mail": {
+      "subject": "Takeaway order",
+      "title": "New takeaway order",
+      "lines": "Dishes",
+      "pickup": "Pick-up",
+      "prefs": "Preferences",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Message",
+      "total": "Estimated total",
+      "lang": "Customer language",
+      "confirmSubject": "ONHA: your takeaway order",
+      "confirmIntro": "Hi {name}, thanks for your order! Here it is:",
+      "confirmOutro": "You pay when you pick up, by card or mobile payment. Any question? Call us on +33 9 87 18 79 29.\n\nSee you soon,\nONHA, 11 rue Saint-Leu, Amiens"
+    }
+  },
+  "infos": {
+    "eyebrow": "Practical info",
+    "title": "Rue Saint-Leu, by the water",
+    "address": "Address",
+    "access": "Getting here",
+    "accessText": "In the heart of the Saint-Leu quarter, a few minutes' walk from the cathedral and the banks of the Somme. The quarter is best explored on foot: park in the city centre.",
+    "phone": "Phone",
+    "hours": "Opening hours",
+    "route": "Directions",
+    "mapTitle": "Map: ONHA, 11 rue Saint-Leu, Amiens",
+    "days": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "closed": "Closed",
+    "services": "Eat in · Takeaway · Card · Mobile payment"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Good to know",
+    "items": [
+      { "q": "Do you have vegetarian and vegan dishes?", "a": "Yes. Every bánh mì and every bún comes with five-spice tofu if you like. Ask for the vegan version when you order and we'll adapt the sauce and toppings. There's also a vegan bò bún and a tofu bowl." },
+      { "q": "What about allergens?", "a": "Our dishes may contain peanuts (peanut sauce, topping), soy (sauces, tofu) and gluten (bánh mì bread, some sauces). The egg coffee contains egg. Tell us about your allergy when you order and we'll tell you exactly what's in each dish." },
+      { "q": "How do I order takeaway?", "a": "Use the form on this site: choose your dishes and a pick-up time, and we'll cook. You can also call +33 9 87 18 79 29 during service, or just come to the counter." },
+      { "q": "How can I pay?", "a": "At the counter, by card or mobile payment. There's no online payment." },
+      { "q": "Are you open in the evening?", "a": "Lunch Monday to Saturday, 11:30 am to 1:30 pm. Evenings on Tuesday, Thursday and Friday, 6:30 pm to 8:30 pm. Closed on Sunday." },
+      { "q": "Can we eat in?", "a": "Yes, in a modern, quiet dining room. At lunchtime, come early or order takeaway to skip the wait." }
+    ]
+  },
+  "footer": {
+    "tagline": "Homemade Vietnamese street food, cooked by a family on rue Saint-Leu in Amiens.",
+    "menu": "Menu",
+    "legal": "Legal notice",
+    "rights": "© {year} ONHA – Vietnam Street-Food"
+  },
+  "pages": {
+    "carte": {
+      "slug": "menu",
+      "title": "The menu",
+      "metaTitle": "Menu and prices: bánh mì, bò bún, bún thịt in Amiens | ONHA",
+      "metaDescription": "ONHA's menu, Vietnamese street food in Amiens Saint-Leu: bánh mì €6.70, bún thịt €8.20, bò bún €9.30, desserts, Vietnamese coffee. Veggie and vegan options, takeaway.",
+      "eyebrow": "Vietnamese street food · Amiens",
+      "lead": "One base, one filling, one sauce. Everything is made here, every day."
+    },
+    "legal": {
+      "slug": "legal",
+      "title": "Legal notice",
+      "metaTitle": "Legal notice | ONHA Vietnam Street-Food",
+      "editor": "Publisher",
+      "host": "Hosting",
+      "data": "Personal data",
+      "dataText": "The details you send with the order form (name, phone, optional email) are only used to prepare and confirm your order. They are never sold or used for advertising. To have them deleted, write to {email}.",
+      "photos": "Photos",
+      "photosText": "Photos: ONHA (Instagram @onha_family). No stock images.",
+      "siret": "SIRET",
+      "director": "Publication director",
+      "toConfirm": "to be completed"
+    }
+  },
+  "alt": {
+    "banh-mi-poulet-sate": "Bánh mì with satay chicken, pickled carrots and fresh coriander in a crunchy baguette",
+    "cafe-phin-comptoir": "Two Vietnamese coffees dripping through their phin filters on ONHA's wooden counter"
+  },
+  "placeholder": {
+    "soon": "Photo coming soon"
+  }
+}

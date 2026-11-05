@@ -1,0 +1,24 @@
+{
+  "_doc": "Menu du jour. Ajoutez une entrée par jour dans « days » (copiez « _exemple » et changez la date AAAA-MM-JJ, le plat et le dessert) ; seule celle du jour s'affiche. Sans entrée pour aujourd'hui, le site affiche « fallback » et renvoie vers Instagram. formula.price : prix de la formule du midi (null = pas encore communiqué : le site affiche le détail plat + boisson 2 € + dessert 3,50 €).",
+  "formula": {
+    "price": null,
+    "fr": "Un plat, une boisson et le dessert du jour",
+    "en": "A main, a drink and the dessert of the day"
+  },
+  "days": [],
+  "_exemple": {
+    "date": "2026-11-05",
+    "dish": {
+      "fr": "Bò bún au bœuf citronnelle, nem croustillant et herbes fraîches",
+      "en": "Lemongrass beef bò bún with a crispy spring roll and fresh herbs"
+    },
+    "dessert": {
+      "fr": "Chè chuối : banane au tapioca et lait de coco",
+      "en": "Chè chuối: banana and tapioca in coconut milk"
+    }
+  },
+  "fallback": {
+    "fr": "Chaque matin, un plat du jour en plus de la carte. Il est écrit sur l'ardoise et posté dans nos stories Instagram.",
+    "en": "Every morning there's a dish of the day on top of the menu. It's on the board in the shop and in our Instagram stories."
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "title": "Restaurant vietnamien à Amiens Saint-Leu : bánh mì, bò bún | ONHA Vietnam Street-Food",
+    "description": "Street-food vietnamienne faite maison, en famille, au 11 rue Saint-Leu à Amiens : bánh mì, bò bún, bún thịt, bowls, desserts et options véganes. Sur place ou à emporter, commande en ligne.",
+    "ogAlt": "Bánh mì au poulet saté, carottes pickles et coriandre fraîche, chez ONHA à Amiens"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "menu": "Menu",
+    "close": "Fermer",
+    "home": "ONHA, accueil",
+    "carte": "La carte",
+    "today": "Menu du jour",
+    "order": "À emporter",
+    "story": "Notre histoire",
+    "infos": "Infos",
+    "orderCta": "Commander à emporter",
+    "orderShort": "Commander",
+    "call": "Appeler",
+    "instagram": "ONHA sur Instagram",
+    "facebook": "ONHA sur Facebook",
+    "lang": "Langue"
+  },
+  "intro": { "skip": "Passer" },
+  "announce": { "close": "Fermer le bandeau" },
+  "hero": {
+    "eyebrow": "Street-food vietnamienne · Saint-Leu, Amiens",
+    "title": "La cuisine de la maison, version street-food",
+    "sub": "Bánh mì croustillant, bò bún généreux, herbes fraîches et pickles maison. Faits en famille, à manger sur place ou à emporter.",
+    "ctaMenu": "Voir la carte",
+    "ctaOrder": "Commander à emporter",
+    "rating": "{value}/5 sur Google",
+    "ratingCount": "{count} avis",
+    "ratingNote": "Note Google relevée le {date}"
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé en ce moment",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "tiles": {
+    "title": "Par où commencer",
+    "items": {
+      "banh-mi": "Bánh mì",
+      "bun": "Bún",
+      "bowls": "Bowls",
+      "vege": "Végé & végan",
+      "desserts": "Desserts"
+    }
+  },
+  "today": {
+    "eyebrow": "Menu du jour",
+    "title": "Aujourd'hui chez ONHA",
+    "dish": "Le plat",
+    "dessert": "Le dessert",
+    "formula": "La formule du midi",
+    "formulaPrice": "{price} la formule",
+    "formulaDetail": "Votre plat, une boisson à {drink} et le dessert du jour à {dessert}.",
+    "noEntry": "Le plat du jour",
+    "follow": "Voir les stories",
+    "dateLabel": "{date}"
+  },
+  "carte": {
+    "eyebrow": "La carte",
+    "title": "Une carte courte, tout fait maison",
+    "intro": "Choisissez votre base, puis votre garniture et votre sauce. C'est tout, et c'est voulu.",
+    "tabsLabel": "Catégories de la carte",
+    "tabs": {
+      "banh-mi": "Bánh mì",
+      "bun": "Bún",
+      "bowls": "Bowls & nems",
+      "vege": "Végé & végan",
+      "desserts": "Desserts",
+      "boissons": "Boissons & cà phê"
+    },
+    "garnitureTitle": "Garniture au choix",
+    "sauceTitle": "Sauce au choix",
+    "garnitures": {
+      "porc-laque": "Porc laqué",
+      "poulet-sate": "Poulet saté",
+      "tofu-5-parfums": "Tofu cinq parfums (végé)"
+    },
+    "sauces": {
+      "mayo-epicee": "Mayo épicée",
+      "cacahuete-soja-fume": "Cacahuète et soja fumé",
+      "soja-sale": "Soja salé"
+    },
+    "priceOnSite": "Prix sur place",
+    "rotation": "Selon le jour",
+    "add": "Commander",
+    "addLabel": "Commander : {name}",
+    "seeFull": "Toute la carte",
+    "vegeIntro": "Le tofu cinq parfums remplace la viande dans chaque bánh mì et chaque bún. Dites-nous « végan » à la commande : on adapte la sauce et les garnitures.",
+    "allergens": "Allergènes : cacahuète, soja, gluten (pain, sauces), œuf (café trứng). Demandez-nous, on vous dit tout plat par plat.",
+    "checked": "Prix relevés le {date}"
+  },
+  "tags": {
+    "vegan": "Végan",
+    "vegetarian": "Végétarien",
+    "vegeOption": "Option végé",
+    "spicy": "Épicé"
+  },
+  "variants": {
+    "m": "M · 200 ml",
+    "l": "L · 350 ml"
+  },
+  "products": {
+    "banh-mi": { "name": "Bánh mì", "desc": "Le sandwich baguette croustillant : votre garniture, légumes pickles, concombre et herbes fraîches." },
+    "bun-thit": { "name": "Bún thịt", "desc": "Un bol frais et généreux : vermicelles de riz, votre garniture, légumes pickles et herbes fraîches." },
+    "bo-bun": { "name": "Bò bún", "desc": "Le bol gourmand : vermicelles de riz, nem croustillant, légumes, herbes fraîches et sauce maison." },
+    "bo-bun-vegan": { "name": "Bò bún végan", "desc": "La version sans produit animal : tofu cinq parfums, vermicelles, légumes croquants et herbes." },
+    "tofu-bowl": { "name": "Tofu bowl, sauce piquante", "desc": "Tofu, légumes croquants, herbes fraîches et une sauce qui pique juste ce qu'il faut." },
+    "nems-legumes": { "name": "Nems aux légumes", "desc": "Croustillants, avec leur sauce à tremper." },
+    "dessert-du-jour": { "name": "Dessert du jour", "desc": "Une douceur différente chaque jour, souvent au lait de coco. Elle est en story à la une sur Instagram." },
+    "che-tapioca": { "name": "Perles de tapioca", "desc": "Perles de tapioca fondantes au lait de coco." },
+    "che-chuoi": { "name": "Banane au tapioca", "desc": "Banane, perles de tapioca et lait de coco." },
+    "dessert-mangue": { "name": "Dessert à la mangue", "desc": "Frais et fruité, à la mangue." },
+    "boisson": { "name": "Boisson au choix", "desc": "Une boisson fraîche, à choisir au comptoir." },
+    "ca-phe-den": { "name": "Café noir vietnamien", "desc": "Préparé au phin, le filtre vietnamien : corsé et intense." },
+    "ca-phe-sua": { "name": "Café au lait concentré", "desc": "Le café du phin sur du lait concentré sucré : rond et gourmand." },
+    "ca-phe-trung": { "name": "Café à l'œuf", "desc": "Café noir surmonté d'un sabayon à l'œuf sucré, comme à Hanoï." },
+    "filtre-du-jour": { "name": "Filtre du jour", "desc": "Café filtre doux, à l'amertume légère, facile à boire." },
+    "filtre-v60": { "name": "Filtre à la demande (V60)", "desc": "Préparé à la main, aux notes fruitées. Comptez quelques minutes." }
+  },
+  "story": {
+    "eyebrow": "Notre histoire",
+    "title": "Ở nhà, « à la maison »",
+    "p1": "ONHA vient de « ở nhà », qui veut dire « à la maison » en vietnamien. C'est exactement ce qu'on cuisine : les plats de notre famille, version street-food.",
+    "p2": "Derrière le comptoir de la rue Saint-Leu, on est deux frères. Les pickles, les sauces et les marinades sont faits ici, chaque jour, et le menu reste court pour que tout soit frais.",
+    "p3": "Ici, on prend le temps. Le café coule goutte à goutte dans son phin, le plat du jour change chaque matin, et on est contents de vous expliquer ce qu'il y a dans le bol.",
+    "facts": ["Fait maison, en famille", "Un plat du jour chaque matin", "Options végé et végan"],
+    "photoNote": "Les deux frères"
+  },
+  "gallery": {
+    "eyebrow": "Instagram",
+    "title": "Dans nos bols cette semaine",
+    "follow": "Suivre @onha_family",
+    "close": "Fermer",
+    "prev": "Photo précédente",
+    "next": "Photo suivante",
+    "counter": "{n} sur {total}",
+    "open": "Agrandir la photo"
+  },
+  "order": {
+    "eyebrow": "À emporter",
+    "title": "Commandez, on prépare, vous passez",
+    "intro": "Choisissez vos plats et votre heure de retrait. On vous rappelle si besoin, et vous réglez au comptoir, par carte ou paiement mobile.",
+    "callTitle": "Plus simple au téléphone ?",
+    "callText": "Appelez-nous pendant le service, on note tout.",
+    "callCta": "Appeler pour commander",
+    "itemsTitle": "Vos plats",
+    "pickupTitle": "Retrait",
+    "prefsTitle": "Vos préférences",
+    "contactTitle": "Vos coordonnées",
+    "dish": "Plat",
+    "quantity": "Quantité",
+    "garniture": "Garniture",
+    "sauce": "Sauce",
+    "size": "Taille",
+    "addLine": "Ajouter un plat",
+    "removeLine": "Retirer ce plat",
+    "day": "Jour",
+    "time": "Heure",
+    "today": "Aujourd'hui",
+    "tomorrow": "Demain",
+    "noSlots": "Plus de créneau ce jour-là : choisissez un autre jour.",
+    "prefs": {
+      "noCoriander": "Sans coriandre",
+      "mild": "Pas épicé",
+      "spicy": "Bien épicé",
+      "vegan": "Version végan"
+    },
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail (facultatif)",
+    "emailHint": "Pour recevoir le récapitulatif de votre commande.",
+    "message": "Un mot pour la cuisine ?",
+    "messagePh": "Allergie, sans cacahuète, couverts…",
+    "total": "Total estimé",
+    "totalNote": "Certains prix restent à confirmer au comptoir.",
+    "submit": "Envoyer ma commande",
+    "sending": "Envoi…",
+    "payNote": "Pas de paiement en ligne : vous réglez au retrait, par carte ou paiement mobile.",
+    "errors": {
+      "lines": "Choisissez au moins un plat.",
+      "day": "Choisissez un jour.",
+      "time": "Choisissez une heure de retrait.",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide.",
+      "email": "Cette adresse e-mail ne semble pas valide.",
+      "send": "L'envoi n'a pas fonctionné. Appelez-nous, on prend votre commande au téléphone."
+    },
+    "done": {
+      "title": "C'est noté !",
+      "text": "Votre commande est partie en cuisine. Si on a une question, on vous appelle.",
+      "pendingTitle": "Dernière étape : un appel",
+      "pendingText": "Votre récapitulatif est prêt. Appelez-nous pour confirmer la commande, on la lance tout de suite.",
+      "mail": "Un récapitulatif a été envoyé à {email}.",
+      "again": "Nouvelle commande"
+    },
+    "whatsapp": "Envoyer sur WhatsApp",
+    "mail": {
+      "subject": "Commande à emporter",
+      "title": "Nouvelle commande à emporter",
+      "lines": "Plats",
+      "pickup": "Retrait",
+      "prefs": "Préférences",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Message",
+      "total": "Total estimé",
+      "lang": "Langue du client",
+      "confirmSubject": "ONHA : votre commande à emporter",
+      "confirmIntro": "Bonjour {name}, merci pour votre commande ! La voici :",
+      "confirmOutro": "Vous réglez au retrait, par carte ou paiement mobile. Une question ? Appelez-nous au 09 87 18 79 29.\n\nÀ tout à l'heure,\nONHA, 11 rue Saint-Leu, Amiens"
+    }
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Rue Saint-Leu, au bord de l'eau",
+    "address": "Adresse",
+    "access": "Venir",
+    "accessText": "Au cœur du quartier Saint-Leu, à quelques minutes à pied de la cathédrale et des quais de la Somme. Le quartier se visite à pied : garez-vous en centre-ville.",
+    "phone": "Téléphone",
+    "hours": "Horaires",
+    "route": "Itinéraire",
+    "mapTitle": "Carte : ONHA, 11 rue Saint-Leu, Amiens",
+    "days": ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"],
+    "closed": "Fermé",
+    "services": "Sur place · À emporter · Carte bancaire · Paiement mobile"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Bon à savoir",
+    "items": [
+      { "q": "Avez-vous des plats végétariens et végans ?", "a": "Oui. Chaque bánh mì et chaque bún existe avec du tofu cinq parfums. Demandez la version végan à la commande : on adapte la sauce et les garnitures. Il y a aussi un bò bún végan et un tofu bowl." },
+      { "q": "Et les allergènes ?", "a": "Nos plats peuvent contenir de la cacahuète (sauce cacahuète, topping), du soja (sauces, tofu) et du gluten (pain du bánh mì, certaines sauces). Le café trứng contient de l'œuf. Signalez votre allergie en commandant : on vous dit précisément ce qu'il y a dans chaque plat." },
+      { "q": "Comment commander à emporter ?", "a": "Avec le formulaire du site : choisissez vos plats et votre heure de retrait, on prépare. Vous pouvez aussi appeler le 09 87 18 79 29 pendant le service, ou passer directement au comptoir." },
+      { "q": "Comment payer ?", "a": "Au comptoir, par carte bancaire ou paiement mobile. Il n'y a pas de paiement en ligne." },
+      { "q": "Êtes-vous ouverts le soir ?", "a": "Le midi du lundi au samedi, de 11 h 30 à 13 h 30. Le soir le mardi, le jeudi et le vendredi, de 18 h 30 à 20 h 30. Fermé le dimanche." },
+      { "q": "Peut-on manger sur place ?", "a": "Oui, dans une salle moderne et calme. Le midi, venez tôt ou commandez à emporter pour ne pas attendre." }
+    ]
+  },
+  "footer": {
+    "tagline": "Street-food vietnamienne faite maison, en famille, rue Saint-Leu à Amiens.",
+    "menu": "La carte",
+    "legal": "Mentions légales",
+    "rights": "© {year} ONHA – Vietnam Street-Food"
+  },
+  "pages": {
+    "carte": {
+      "slug": "carte",
+      "title": "La carte",
+      "metaTitle": "Carte et prix : bánh mì, bò bún, bún thịt à Amiens | ONHA",
+      "metaDescription": "La carte d'ONHA, street-food vietnamienne à Amiens Saint-Leu : bánh mì 6,70 €, bún thịt 8,20 €, bò bún 9,30 €, desserts, café vietnamien. Options végé et végan, à emporter.",
+      "eyebrow": "Street-food vietnamienne · Amiens",
+      "lead": "Une base, une garniture, une sauce. Tout est préparé ici, chaque jour."
+    },
+    "legal": {
+      "slug": "mentions-legales",
+      "title": "Mentions légales",
+      "metaTitle": "Mentions légales | ONHA Vietnam Street-Food",
+      "editor": "Éditeur du site",
+      "host": "Hébergement",
+      "data": "Données personnelles",
+      "dataText": "Les informations envoyées avec le formulaire de commande (nom, téléphone, e-mail facultatif) servent uniquement à préparer et confirmer votre commande. Elles ne sont ni revendues ni utilisées pour de la publicité. Pour les faire supprimer, écrivez à {email}.",
+      "photos": "Photos",
+      "photosText": "Photos : ONHA (Instagram @onha_family). Aucune image de banque.",
+      "siret": "SIRET",
+      "director": "Directeur de la publication",
+      "toConfirm": "à compléter"
+    }
+  },
+  "alt": {
+    "banh-mi-poulet-sate": "Bánh mì au poulet saté, carottes pickles et coriandre fraîche dans une baguette croustillante",
+    "cafe-phin-comptoir": "Deux cafés vietnamiens qui coulent dans leur phin, sur le comptoir en bois d'ONHA"
+  },
+  "placeholder": {
+    "soon": "Photo à venir"
+  }
+}

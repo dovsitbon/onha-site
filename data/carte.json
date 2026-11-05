@@ -1,0 +1,276 @@
+{
+ "_doc": "La carte. Prix relevés sur la carte publiée par ONHA (Instagram/Facebook) ; null = prix à confirmer (affiché « prix sur place »). Noms et descriptions dans locales/fr.json et en.json → products. photo : chemins essayés dans l'ordre (le premier présent dans public/media gagne ; sinon illustration au trait). tags : vegan, vegetarian, vegeOption (garniture tofu possible), spicy. choices : garniture + sauce au choix.",
+ "checked": "2026-11-05",
+ "garnitures": [
+  {
+   "id": "porc-laque",
+   "tags": []
+  },
+  {
+   "id": "poulet-sate",
+   "tags": []
+  },
+  {
+   "id": "tofu-5-parfums",
+   "tags": [
+    "vegetarian"
+   ]
+  }
+ ],
+ "sauces": [
+  {
+   "id": "mayo-epicee",
+   "tags": [
+    "spicy"
+   ]
+  },
+  {
+   "id": "cacahuete-soja-fume",
+   "tags": [
+    "peanut"
+   ]
+  },
+  {
+   "id": "soja-sale",
+   "tags": []
+  }
+ ],
+ "categories": [
+  {
+   "id": "banh-mi",
+   "items": [
+    "banh-mi"
+   ]
+  },
+  {
+   "id": "bun",
+   "items": [
+    "bun-thit",
+    "bo-bun",
+    "bo-bun-vegan"
+   ]
+  },
+  {
+   "id": "bowls",
+   "items": [
+    "tofu-bowl",
+    "nems-legumes"
+   ]
+  },
+  {
+   "id": "desserts",
+   "items": [
+    "dessert-du-jour",
+    "che-tapioca",
+    "che-chuoi",
+    "dessert-mangue"
+   ]
+  },
+  {
+   "id": "boissons",
+   "items": [
+    "boisson",
+    "ca-phe-den",
+    "ca-phe-sua",
+    "ca-phe-trung",
+    "filtre-du-jour",
+    "filtre-v60"
+   ]
+  }
+ ],
+ "items": {
+  "banh-mi": {
+   "vn": "Bánh mì",
+   "price": 6.7,
+   "choices": true,
+   "tags": [
+    "vegeOption"
+   ],
+   "photo": [
+    "/media/plats/banh-mi.jpg",
+    "/media/hero/banh-mi-poulet-sate.jpg"
+   ],
+   "illus": "baguette"
+  },
+  "bun-thit": {
+   "vn": "Bún thịt",
+   "price": 8.2,
+   "choices": true,
+   "tags": [
+    "vegeOption"
+   ],
+   "photo": [
+    "/media/plats/bun-thit.jpg"
+   ],
+   "illus": "bowl"
+  },
+  "bo-bun": {
+   "vn": "Bò bún",
+   "price": 9.3,
+   "choices": true,
+   "tags": [
+    "vegeOption"
+   ],
+   "photo": [
+    "/media/plats/bo-bun.jpg"
+   ],
+   "illus": "bowl"
+  },
+  "bo-bun-vegan": {
+   "vn": "Bò bún chay",
+   "price": null,
+   "choices": false,
+   "tags": [
+    "vegan"
+   ],
+   "photo": [
+    "/media/plats/bo-bun-vegan.jpg"
+   ],
+   "illus": "bowl"
+  },
+  "tofu-bowl": {
+   "vn": "Tofu bowl",
+   "price": null,
+   "choices": false,
+   "tags": [
+    "vegetarian",
+    "spicy"
+   ],
+   "photo": [
+    "/media/plats/tofu-bowl.jpg"
+   ],
+   "illus": "bowl"
+  },
+  "nems-legumes": {
+   "vn": "Nem chay",
+   "price": null,
+   "choices": false,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [
+    "/media/plats/nems-legumes.jpg"
+   ],
+   "illus": "nem"
+  },
+  "dessert-du-jour": {
+   "vn": "Tráng miệng",
+   "price": 3.5,
+   "choices": false,
+   "tags": [],
+   "photo": [
+    "/media/desserts/dessert-du-jour.jpg"
+   ],
+   "illus": "dessert"
+  },
+  "che-tapioca": {
+   "vn": "Chè bột báng",
+   "price": 3.5,
+   "choices": false,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [
+    "/media/desserts/perles-tapioca.jpg"
+   ],
+   "illus": "dessert",
+   "rotation": true
+  },
+  "che-chuoi": {
+   "vn": "Chè chuối",
+   "price": 3.5,
+   "choices": false,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [
+    "/media/desserts/banane-tapioca.jpg"
+   ],
+   "illus": "dessert",
+   "rotation": true
+  },
+  "dessert-mangue": {
+   "vn": "Xoài",
+   "price": 3.5,
+   "choices": false,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [
+    "/media/desserts/dessert-mangue.jpg"
+   ],
+   "illus": "dessert",
+   "rotation": true
+  },
+  "boisson": {
+   "vn": null,
+   "price": 2,
+   "choices": false,
+   "tags": [],
+   "photo": [],
+   "illus": "glass"
+  },
+  "ca-phe-den": {
+   "vn": "Cà phê đen",
+   "price": 2,
+   "choices": false,
+   "tags": [
+    "vegan"
+   ],
+   "photo": [],
+   "illus": "phin"
+  },
+  "ca-phe-sua": {
+   "vn": "Cà phê sữa",
+   "price": 2.5,
+   "choices": false,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [
+    "/media/restaurant/cafe-phin-comptoir.jpg"
+   ],
+   "illus": "phin"
+  },
+  "ca-phe-trung": {
+   "vn": "Cà phê trứng",
+   "price": 3.5,
+   "choices": false,
+   "tags": [
+    "vegetarian"
+   ],
+   "photo": [],
+   "illus": "phin"
+  },
+  "filtre-du-jour": {
+   "vn": null,
+   "price": 2.2,
+   "variants": [
+    {
+     "id": "m",
+     "price": 2.2
+    },
+    {
+     "id": "l",
+     "price": 3
+    }
+   ],
+   "choices": false,
+   "tags": [
+    "vegan"
+   ],
+   "photo": [],
+   "illus": "cup"
+  },
+  "filtre-v60": {
+   "vn": null,
+   "price": 4,
+   "choices": false,
+   "tags": [
+    "vegan"
+   ],
+   "photo": [],
+   "illus": "cup"
+  }
+ }
+}
